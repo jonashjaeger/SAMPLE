@@ -1,0 +1,15 @@
+{
+  "id": "./",
+  "name": "SAMPLE — Biomolecular Field Journal",
+  "short_name": "SAMPLE",
+  "description": "An offline journal for archaeological specimens, biomolecular subsamples and chain of custody.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f6f1",
+  "theme_color": "#123d39",
+  "icons": [
+    {"src":"icons/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
